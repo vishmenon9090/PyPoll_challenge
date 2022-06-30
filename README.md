@@ -17,6 +17,6 @@
 
 ###Txt file
 
-![](Txtfile.png)
+![](Txt_file.png)
 
 
