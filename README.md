@@ -6,7 +6,7 @@
 ![](candidate_results.png)
 
 ### Total Votes
-![](Total Votes.png)
+
 
 
 ### County Results
@@ -16,6 +16,6 @@
 ## Deliverable 2
 
 ###Txt file
-![](election_analysis.txt)
+
 
 
