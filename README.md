@@ -15,7 +15,7 @@
 
 ## Deliverable 2
 
-###Txt file
+### Txt file
 
 ![](Txt_file.png)
 
