@@ -6,7 +6,7 @@
 ![](candidate_results.png)
 
 ### Total Votes
-
+![](Total Votes.png)
 
 
 ### County Results
