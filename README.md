@@ -3,4 +3,4 @@
 
 ## Candidate Results
 
-###
+![](candidate_results.png)
