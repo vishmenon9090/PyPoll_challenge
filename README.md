@@ -10,13 +10,13 @@
 
 
 ### County Results
-![](County_Votes.png)
+![]()
 
 
 ## Deliverable 2
 
 ###Txt file
 
-![](Txt file.png)
+![](Txtfile.png)
 
 
