@@ -20,4 +20,6 @@
 
 ###Txt file
 
+![](election_analysis.txt)
+
 
