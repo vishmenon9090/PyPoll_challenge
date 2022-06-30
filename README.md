@@ -8,7 +8,7 @@
 
 ### Total Votes
 
-
+![](Total Votes.png)
 
 
 ### County Results
