@@ -5,7 +5,7 @@
 ### Candidate Results
 ![](candidate_results.png)
 
-#### Total Votes
+### Total Votes
 ![](Total Votes.png)
 
 
