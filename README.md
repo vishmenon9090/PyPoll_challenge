@@ -8,7 +8,7 @@
 
 ### Total Votes
 
-![](Total Votes.png)
+
 
 
 ### County Results
@@ -20,4 +20,4 @@
 
 ###Txt file
 
-![](election_analysis.txt)
+
